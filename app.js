@@ -1,5 +1,5 @@
-import { FFF } from "./NewFolderComponent/SomeFunction.mjs";
-import { two } from "./NewFolderComponent/anotherFunction.js";
+import { FFF } from "./newFolderComponent/SomeFunction.mjs";
+import { two } from "./newFolderComponent/AnotherFunction.js";
 
 function test() {
   console.log("Function is working normally! ");
